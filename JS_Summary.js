@@ -9,11 +9,18 @@
 //? Data type:
 // Premetive vs Reference data types:
 
-// Premetive : number , string , boolean , int , bigInt 
-// Referece type: array , object 
+//~ Premetive : number , string , boolean , int , bigInt 
+//~ Referece type: array , object ,set 
 
 // Premetive data type store in stack
 // Reference store in Heap memory and carry referece to the location
 
-// array : []  ... Indexing  .... Ordered collection ... Reference type
+// array : []  ... Indexing  .... Ordered collection ... Reference type ... const variable 
+//!========================================================================
+// ? Objects
+
+// ~ Store key value pair {key : value}
+
+// 
+
 //!========================================================================
