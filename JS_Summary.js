@@ -10,7 +10,7 @@
 // Premetive vs Reference data types:
 
 //~ Premetive : number , string , boolean , int , bigInt 
-//~ Referece type: array , object ,set 
+//~ Referece type: array , object ,set ,Maps
 
 // Premetive data type store in stack
 // Reference store in Heap memory and carry referece to the location
@@ -24,3 +24,10 @@
 // 
 
 //!========================================================================
+// ? syntax : new Set()
+// ? Set => iterable
+// ? own methods
+// ? No index
+// ? order not guranteed
+// ? unique items
+
