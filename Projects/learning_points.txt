@@ -1,0 +1,8 @@
+What is proxy? Works on object 
+traps? get(target,property) , set 
+
+fire customer event using JS : window.dispatchEvent("anyName")
+
+
+Add local storage
+// localstorage.setItem("store",JSON.stringify(store))
